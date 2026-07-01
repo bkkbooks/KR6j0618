@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0618/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說妙色陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1386.xml
+    old_id: T21n1386
+hash: sha256:49351b7f50a5c3e275aedc3ad57286f0a55505b84e9d09eeb3190758cb025f4a
