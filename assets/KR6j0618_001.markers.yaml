@@ -17,7 +17,6 @@ markers:
   - {type: punctuation, offset: 39, content: ，, id: KR6j0618_T_001-bkkpn3}
   - {type: line-break, offset: 41, content: '', id: KR6j0618_T_001-0905c22, ed: T, 'n': 0905c22}
   - {type: punctuation, offset: 49, content: ，, id: KR6j0618_T_001-bkkpn4}
-  - {type: substitution, offset: 51, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 57, content: 。, id: KR6j0618_T_001-bkkpn5}
   - {type: line-break, offset: 58, content: '', id: KR6j0618_T_001-0905c23, ed: T, 'n': 0905c23}
   - {type: punctuation, offset: 66, content: ，, id: KR6j0618_T_001-bkkpn6}
@@ -122,7 +121,6 @@ markers:
   - {type: line-break, offset: 289, content: '', id: KR6j0618_T_001-0906a07, ed: T, 'n': 0906a07}
   - {type: xml-element, offset: 289, content: '', id: KR6j0618_T_001-bkkxmlele55, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 291, content: '', id: KR6j0618_T_001-bkkxmlele56, name: note, role: close, attrs: {place: inline}}
-  - {type: substitution, offset: 292, original: 隷, replacement: 隸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0628}}
   - {type: xml-element, offset: 293, content: '', id: KR6j0618_T_001-bkkxmlele57, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 296, content: '', id: KR6j0618_T_001-bkkxmlele58, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 299, content: '', id: KR6j0618_T_001-bkkxmlele59, name: note, role: open, attrs: {place: inline}}
@@ -157,4 +155,4 @@ markers:
   - {type: xml-element, offset: 340, content: '', id: pT21p0906a0901_end, name: p, role: close, attrs: {'xml:id': pT21p0906a0901}}
   - {type: line-break, offset: 340, content: '', id: KR6j0618_T_001-0906a10, ed: T, 'n': 0906a10}
   back: []
-hash: sha256:eec8cd055ed07fe04779e35cb7a0abf6bf7abf66c73c92979cc728deb5beff73
+hash: sha256:f6e1cdba2b1fd69bdf575e8835621fc080900b0c4132e9486162ed03bf3e41b4

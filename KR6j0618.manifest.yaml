@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0618_000.yaml, hash: 'sha256:49351b7f50a5c3e275aedc3ad57286f0a55505b84e9d09eeb3190758cb025f4a'}
-  - {seq: 1, filename: KR6j0618_001.yaml, hash: 'sha256:959e4511e2ed4c168544562c7a2e5940923c783c38019e7f7f03dc7ba33e3b3a'}
+  - {seq: 1, filename: KR6j0618_001.yaml, hash: 'sha256:91c6abff42451e4a5d97d0054c8d93a487817b498a70b4958cf553ba06f6e4d9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0618_001.markers.yaml, hash: 'sha256:eec8cd055ed07fe04779e35cb7a0abf6bf7abf66c73c92979cc728deb5beff73'}
+  - {seq: 0, role: markers, filename: assets/KR6j0618_000.markers.yaml, hash: 'sha256:25b101be41d3ff778ca1e5bbf6bc34e629285f6cb242c063e9f92a0ddc84a406'}
+  - {seq: 1, role: markers, filename: assets/KR6j0618_001.markers.yaml, hash: 'sha256:f6e1cdba2b1fd69bdf575e8835621fc080900b0c4132e9486162ed03bf3e41b4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說妙色陀羅尼經
   type: juan
   level: 1
-hash: sha256:d3b2e4d03237eaa642abb7362adabfef8fc293c767b910582f48aafff92423de
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1486b61438bc48102af84bfc159f10f683907808f83dc4fbaa5341f59982744c
