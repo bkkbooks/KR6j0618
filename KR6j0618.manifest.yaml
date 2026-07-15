@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0618/v1
 canonical_location: https://kanripo.org/bkk/KR6j0618/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說妙色陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0618_000.yaml, hash: 'sha256:49351b7f50a5c3e275aedc3ad57286f0a55505b84e9d09eeb3190758cb025f4a'}
-  - {seq: 1, filename: KR6j0618_001.yaml, hash: 'sha256:91c6abff42451e4a5d97d0054c8d93a487817b498a70b4958cf553ba06f6e4d9'}
+  - {seq: 1, filename: KR6j0618_001.yaml, hash: 'sha256:9cce39680b3665f416d6ad889e10e520c7394e3042aa0149b4421b3978b04b21'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0618_000.markers.yaml, hash: 'sha256:25b101be41d3ff778ca1e5bbf6bc34e629285f6cb242c063e9f92a0ddc84a406'}
-  - {seq: 1, role: markers, filename: assets/KR6j0618_001.markers.yaml, hash: 'sha256:f6e1cdba2b1fd69bdf575e8835621fc080900b0c4132e9486162ed03bf3e41b4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0618_001.markers.yaml, hash: 'sha256:41be68240ef34e36edd17ce68a0006dd6e1cdb3369d81022a28d85bebe76e075'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說妙色陀羅尼經
   type: juan
   level: 1
-hash: sha256:1486b61438bc48102af84bfc159f10f683907808f83dc4fbaa5341f59982744c
+hash: sha256:aa6f05c7f56ffe9976e2ab23a74ffdfc1caa8ae8e180487e089924f7acd32c2c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
